@@ -1,6 +1,7 @@
 #include "iostream"
 main()
 {
-	printf("Test git!");
-	printf("Test git2");
+	printf("Test git1!");
+	printf("Test git2!");
+	printf("Test git3!");
 }
